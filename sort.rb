@@ -1,3 +1,5 @@
+#Selection, insertion, and merge sorts using blocks
+
 testArray = [36, 7, 4, 11, 8, 3, 21, 5]
 puts 'The array is ' + testArray.to_s
 
